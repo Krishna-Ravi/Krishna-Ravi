@@ -6,8 +6,6 @@
 <!--
 **Krishna-Ravi/Krishna-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...PHP project and Image processing
 - 🌱 I’m currently learning ...Robot Operating System(ROS), Machine learning,Blockchain and NodeJs
 - 🤔 I’m looking for help with ...ROS
