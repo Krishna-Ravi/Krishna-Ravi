@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Krishna, Blockchain Enthusiast, currently pursuing my engineering in Information science from Jyothy Institute of Technology, Bangalore
 ### Glad to see you here! 🤩 &nbsp;
-[![HitCount](http://hits.dwyl.com/Krishna-Ravi/{project}.svg)](http://hits.dwyl.com/Krishna-Ravi/{project})
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKrishna-Ravi%2Fhit-counter)](https://hits.seeyoufarm.com)
 <!--
 **Krishna-Ravi/Krishna-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
