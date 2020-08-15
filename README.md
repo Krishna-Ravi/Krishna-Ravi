@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## I'm Krishna, Blockchain Enthusiast, currently pursuing my engineering in Information science from Jyothy Institute of Technology, Bangalore
 ### Glad to see you here! 🤩 &nbsp;
-[![HitCount](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi.svg)](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi)
-
+[![HitCount](http://hits.dwyl.com/Krishna-Ravi/{project}.svg)](http://hits.dwyl.com/Krishna-Ravi/{project})
 <!--
 **Krishna-Ravi/Krishna-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
