@@ -6,10 +6,10 @@
 
 <h1 align="center">Hi there 👋 </h1>
 <h2 align="center">I'm <b><i>Krishna R</i></b>, Blockchain Enthusiast, currently pursuing my engineering in Information science from Jyothy Institute of Technology, Bangalore</h2>
-<h3>Glad to see you here! 🤩 &nbsp;</h3>
+<h3>Glad to see you here! 🤩 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-ravi" alt="krishna-ravi" /> </p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKrishna-Ravi%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 
 - 🔭 I’m currently working on **Php project & Image Processing**
 
