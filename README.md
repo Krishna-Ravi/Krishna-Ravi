@@ -1,5 +1,6 @@
 <!--
 **Krishna-Ravi/Krishna-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝[Resume](https://drive.google.com/file/d/17XaEDDbpbltHg9KGWFgIrFSlpvt0FPQM/view?usp=sharing)
 -->
 
 
@@ -19,7 +20,7 @@
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
-- 📝[Resume](https://drive.google.com/file/d/17XaEDDbpbltHg9KGWFgIrFSlpvt0FPQM/view?usp=sharing)
+
 
 - 📝[3D Portfolio](https://krishna-ravi.github.io/3D_creations/)
 
