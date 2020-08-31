@@ -12,7 +12,7 @@
 [![HitCount](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi.svg)](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi)
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-ravi" alt="krishna-ravi" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-ravi" alt="krishna-ravi" /> </p>
 
 
 
