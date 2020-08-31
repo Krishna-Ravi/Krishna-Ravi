@@ -9,6 +9,8 @@
 <h2 align="center">I'm <b><i>Krishna R</i></b>, Blockchain Enthusiast, currently pursuing my Engineering in Information science from Jyothy Institute of Technology, Bangalore</h2>
 <h3>Glad to see you here! 🤩 </h3>
 
+![](https://komarev.com/ghpvc/?username=Krishna-Ravi)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-ravi" alt="krishna-ravi" /> </p>
 
 
