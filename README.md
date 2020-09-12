@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Science, Blockchain,Robot Operating System(ROS)**
 
-- 🤝 I’m looking for help with **Ros**
+- 🤝 I’m looking for help with **Data Science & Ros**
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
