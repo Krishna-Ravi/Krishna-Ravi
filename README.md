@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Php project & Image Processing**
 
-- 🌱 I’m currently learning **Data Science, Blockchain,Robot Operating System(ROS), Machine learning and NodeJs**
+- 🌱 I’m currently learning **Data Science, Blockchain,Robot Operating System(ROS)**
 
 - 🤝 I’m looking for help with **Ros**
 
