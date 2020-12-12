@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Data Science, React JS**
 
-- 🤝 I’m looking for help with **Blockchain **
+- 🤝 I’m looking for help with **Blockchain**
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
