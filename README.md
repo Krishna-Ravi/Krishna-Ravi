@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on **Php project & Image Processing**
 
-- 🌱 I’m currently learning **Data Science, Blockchain,Robot Operating System(ROS)**
+- 🌱 I’m currently learning **Blockchain, Data Science, React JS**
 
-- 🤝 I’m looking for help with **Data Science & Ros**
+- 🤝 I’m looking for help with **Blockchain **
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
