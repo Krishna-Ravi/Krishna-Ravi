@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Data Science, React JS**
 
-- 🤝 I’m looking for help with **Blockchain, Flutter **
+- 🤝 I’m looking for help with **Blockchain, Flutter**
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
