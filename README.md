@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi there 👋 </h1>
-<h2 align="center">I'm <b><i>Krishna R</i></b>, Blockchain Enthusiast, Assistant System Engineer at <b><i>TATA Consultancy Services Ltd</i></b>, Bangalore</h2>
+<h2 align="center">I'm <b><i>Krishna R</i></b>, Blockchain Enthusiast, System Administrator at <b><i>TATA Consultancy Services Ltd</i></b>, Bangalore</h2>
 <h3>Glad to see you here! 🤩 </h3>
 
 <!--[![HitCount](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi.svg)](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi)-->
@@ -18,7 +18,7 @@
 
 
 
-- 🔭 I’m currently working on **Powershell scripting for Application Packaging**
+- 🔭 I’m currently working on **Powershell scripting, Application Packaging**
 
 - 🌱 I’m currently learning **Blockchain, Data Science, Data Structures**
 
