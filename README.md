@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi there 👋 </h1>
-<h2 align="center">I'm <b><i>Krishna R</i></b>, System Administrator at <b><i>TATA Consultancy Services Ltd</i></b>, Bangalore</h2>
+<h2 align="center">I'm <b><i>Krishna R</i></b>, System Engineer at <b><i>TATA Consultancy Services Ltd</i></b>, Bangalore</h2>
 <h3>Glad to see you here! 🤩 </h3>
 
 <!--[![HitCount](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi.svg)](http://hits.dwyl.com/Krishna-Ravi/Krishna-Ravi)-->
@@ -18,11 +18,11 @@
 
 
 
-- 🔭 I’m currently working on **Powershell scripting, Application Packaging**
+- 🔭 I’m currently working on **Django, Web Development**
 
-- 🌱 I’m currently learning **Data Structures, Devops**
+- 🌱 I’m currently learning **Data Structures, Django, Microservices**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Microservices**
 
 - 📫 How to reach me **slrjk.18@gmail.com**
 
