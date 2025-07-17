@@ -24,7 +24,7 @@
 
 - 🤝 I’m looking for help with **qKDB**
 
-- 📫 How to reach me **slrjk.18@gmail.com**
+- 📫 How to reach me **rkrishna.connects@gmail.com**
 
 
 
